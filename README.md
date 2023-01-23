@@ -27,8 +27,7 @@
 
 For this project you are given the following `print_array`, and `print_list` functions:
 
-```
-ruby
+```ruby
 #include <stdlib.h>
 #include <stdio.h>
 
